@@ -1,20 +1,18 @@
 # Hi there, I'm Devansh! 👋
 
-I'm a 19-year-old developer focused on building practical, hands-on solutions. I specialize in C and Python, and I am passionate about jumping into open-source development. I believe in learning by doing—trading certificates for real-world application, whether that's writing code, analyzing digital logic, or experimenting with data. 
+I'm a 19-year-old B.Tech Artificial Intelligence undergrad at **Punjab Engineering College (PEC), Chandigarh**, focused on building practical software and systems from first principles. I specialize in **C, C++, and Python**, with strong foundations in **Data Structures, Algorithms, and Object-Oriented Programming**.
 
-### 🛠️ Tech Stack & Tools
-*   **Languages:** C, Python
-*   **Areas of Interest:** Open Source, Digital Circuit Analysis, Computational Data Plotting, AI Tools & Generation
+I believe in learning by building—whether that's implementing low-level data structures from scratch, developing full-stack web applications, or interfacing custom hardware with Linux.
 
-### 🌱 Currently doing:
-*   Prepping to contribute to open-source projects via GirlScript Summer of Code (GSSoC).
-*   Building my foundation in problem-solving and clean code architecture.
+### 🛠️ Tech Stack & Core Skills
+* **Languages:** C, C++, Python, JavaScript, HTML/CSS, SQL
+* **Core CS:** Data Structures & Algorithms (170+ LeetCode problems solved), OOP, Linux Systems
+* **Tools & Platforms:** Git, GitHub, Arduino, Wayland/Linux Environments
 
-### ⚡ Quick Facts:
-*   I love blending traditional programming with analytical tools like Wolfram Cloud and TINA-TI. 
-*   Always experimenting with AI workflows and media generation.
-*   Ask me about: Python scripting or logic design!
+### 🚀 Featured Builds
+* **Vesting UP:** A gamified stock market education and trading simulation platform featuring an 8-level curriculum and an AI mentor (*Atlas*).
+* **Custom Data Structures & Algorithms (C/C++):** From-scratch implementations of trees, graphs, queues, and algorithmic problem solutions with time/space complexity analysis.
+* **DIY Optical Encoder Steering Wheel:** Custom racing sim peripheral built using an optical mouse sensor, microswitches, Arduino Uno, and Linux/Windows HID interfacing.
 
-### 📫 How to reach me:
-*   [[LinkedIn](https://www.linkedin.com/in/devansh-jhamb-b2095a3a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-*   Email: [devanshjhamb.bt25cseai@pec.edu.in]
+### 📊 Coding Stats
+![LeetCode Stats] https://leetcode.com/u/mr-agniastra
