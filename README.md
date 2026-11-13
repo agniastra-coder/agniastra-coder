@@ -1,6 +1,6 @@
 # Hi there, I'm Devansh! 👋
 
-I'm a 19-year-old B.Tech Artificial Intelligence undergrad at **Punjab Engineering College (PEC), Chandigarh**, focused on building practical software and systems from first principles. I specialize in **C, C++, and Python**, with strong foundations in **Data Structures, Algorithms, and Object-Oriented Programming**.
+I'm a 20-year-old B.Tech Artificial Intelligence undergrad at **Punjab Engineering College (PEC), Chandigarh**, focused on building practical software and systems from first principles. I specialize in **C, C++, and Python**, with strong foundations in **Data Structures, Algorithms, and Object-Oriented Programming**.
 
 I believe in learning by building—whether that's implementing low-level data structures from scratch, developing full-stack web applications, or interfacing custom hardware with Linux.
 
